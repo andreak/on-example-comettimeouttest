@@ -1,0 +1,9 @@
+Example showing result of comet-request is ignored when timeout, 5s, occurs.
+
+fire up like this:
+
+mvn tomcat:run
+
+Point browser to http://localhost:8080/on-example-comettimeouttest/
+
+This file was modified by IntelliJ IDEA (Nika) IU-110.187 for binding GitHub repository
